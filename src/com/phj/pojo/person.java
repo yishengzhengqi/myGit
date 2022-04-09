@@ -8,10 +8,7 @@ package com.phj.pojo;
  */
 public interface person {
 
-    int age = 0;
-    String name = "";
 
     int getAge();
 
-    String getName();
 }
