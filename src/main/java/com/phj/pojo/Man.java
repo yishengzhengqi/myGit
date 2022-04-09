@@ -16,5 +16,6 @@ public class Man implements person {
         System.out.println("good");
         System.out.println("master");
         System.out.println("hot-fix");
+        System.out.println("push test");
     }
 }
