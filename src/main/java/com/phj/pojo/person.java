@@ -1,4 +1,4 @@
-package com.phj.pojo;
+package main.com.phj.pojo;
 
 /**
  * @ClassName person
