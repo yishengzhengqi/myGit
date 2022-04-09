@@ -1,4 +1,4 @@
-package com.phj.pojo;
+package main.com.phj.pojo;
 
 /**
  * @ClassName Man
@@ -11,5 +11,9 @@ public class Man implements person{
     @Override
     public int getAge() {
         return 21;
+    }
+
+    public static void main(String[] args) {
+        System.out.println("li4");
     }
 }
